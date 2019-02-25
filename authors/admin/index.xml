@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>admin on Academic</title>
+    <title>admin on Hajin Lim</title>
     <link>https://hajinlim.github.io/authors/admin/</link>
-    <description>Recent content in admin on Academic</description>
+    <description>Recent content in admin on Hajin Lim</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
@@ -16,8 +16,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://hajinlim.github.io/author/admin/</guid>
-      <description>Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet.</description>
+      <description>My research interest lies in Human-Computer Interaction (HCI), specifically in Computer-supported Cooperative Work (CSCW) and Social Computing. I am primarily interested in exploring how social science theories can be used to design and develop social computing systems that promote effective communication among individuals, groups, and organizations. Through my research, I intend to further the empirical, practical and theoretical understanding of human relationships and communications in online environments.</description>
     </item>
     
   </channel>
