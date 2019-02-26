@@ -12,39 +12,49 @@
     
     
     <item>
-      <title>Test</title>
-      <link>https://hajinlim.github.io/project/aicomm/</link>
-      <pubDate>Sun, 24 Feb 2019 21:01:40 -0500</pubDate>
-      
-      <guid>https://hajinlim.github.io/project/aicomm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Test</title>
+      <title>Beyond Translation</title>
       <link>https://hajinlim.github.io/project/beyondtranslation/</link>
       <pubDate>Sun, 24 Feb 2019 21:01:40 -0500</pubDate>
       
       <guid>https://hajinlim.github.io/project/beyondtranslation/</guid>
-      <description></description>
+      <description>Machine translation is often not enough for people to engage across languages due to translation errors and lack of cultural background. My research aims to explore design possibilities to improve multilingual communication based on grounded understandings of how people consume and make sense of foreign language messages and contents.
+Study 1: Understanding how people consume and make sense of foreign language messages To investigate how language affects people’s attention to and engagement with social media posts, I conducted an eye-tracking lab study in which monolingual English speaking participants (N=22) viewed a mock newsfeed containing English and foreign language posts.</description>
     </item>
     
     <item>
-      <title>Test</title>
+      <title>Life Balance of Digital Natives</title>
       <link>https://hajinlim.github.io/project/lifebalance/</link>
       <pubDate>Sun, 24 Feb 2019 21:01:40 -0500</pubDate>
       
       <guid>https://hajinlim.github.io/project/lifebalance/</guid>
-      <description></description>
+      <description>Summary Previous research has shown that communication technologies may make it challenging for working professionals to manage the boundaries between their work life and home life. For college students, however, there is a less clear definition of what constitutes work and what constitutes home life. As a result, students may use different boundary management strategies than working professionals. To explore this issue, we interviewed 29 undergraduates about how they managed boundaries between different areas of their life.</description>
     </item>
     
     <item>
-      <title>Test</title>
-      <link>https://hajinlim.github.io/project/socialmedia/</link>
+      <title>Now here or nowhere</title>
+      <link>https://hajinlim.github.io/project/cmc/</link>
       <pubDate>Sun, 24 Feb 2019 21:01:40 -0500</pubDate>
       
-      <guid>https://hajinlim.github.io/project/socialmedia/</guid>
-      <description></description>
+      <guid>https://hajinlim.github.io/project/cmc/</guid>
+      <description>Summary This research explores the uses of communication channels that couples adopt in varied geographical distance settings. We also characterize their conflict patterns and strategies for resolving the conflicts. We found that the distances between couples have a strong influence on their communication patterns. The distance is associated with typical conflicts pattern that couples confronted as well as the relationship maintenance strategies. In this research, we classify distance settings into four categories.</description>
+    </item>
+    
+    <item>
+      <title>Selfie on Social Media</title>
+      <link>https://hajinlim.github.io/project/selfie/</link>
+      <pubDate>Sun, 24 Feb 2019 21:01:40 -0500</pubDate>
+      
+      <guid>https://hajinlim.github.io/project/selfie/</guid>
+      <description>Summary Selfies are everywhere on social media. Research has focused only on who is posting selfies and has not addressed the audience members viewing selfies. This study aims to fill this gap by analyzing the judgments people make of selfies posted on Facebook. Using an online experiment, we test how including a selfie on a Facebook status update changes people’s appraisals of narcissism, message appropriateness, and social attraction. We also consider how the valence and intimacy of the status update text interplay with the selfie to change social judgments.</description>
+    </item>
+    
+    <item>
+      <title>Ubi-Jector</title>
+      <link>https://hajinlim.github.io/project/ubi/</link>
+      <pubDate>Sun, 24 Feb 2019 21:01:40 -0500</pubDate>
+      
+      <guid>https://hajinlim.github.io/project/ubi/</guid>
+      <description>Summary The widespread use of mobile devices has transformed casual places into meeting places. However, in these places, it is uncommon to have shared information workspace such as a beam projector, making it inconvenient and inefficient to exchange information and to get a direct feedback. To address this challenge, we present Ubi-jector, a mobile system that provides a shared information space that is equally distributed to each participant&amp;rsquo;s mobile device and allows group members to share documents and collaborate real-time.</description>
     </item>
     
   </channel>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Analysis on Hajin Lim</title>
+    <link>https://hajinlim.github.io/tags/data-analysis/</link>
+    <description>Recent content in Data Analysis on Hajin Lim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 Feb 2019 21:01:40 -0500</lastBuildDate>
+    
+	<atom:link href="https://hajinlim.github.io/tags/data-analysis/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Beyond Translation</title>
+      <link>https://hajinlim.github.io/project/beyondtranslation/</link>
+      <pubDate>Sun, 24 Feb 2019 21:01:40 -0500</pubDate>
+      
+      <guid>https://hajinlim.github.io/project/beyondtranslation/</guid>
+      <description>Machine translation is often not enough for people to engage across languages due to translation errors and lack of cultural background. My research aims to explore design possibilities to improve multilingual communication based on grounded understandings of how people consume and make sense of foreign language messages and contents.
+Study 1: Understanding how people consume and make sense of foreign language messages To investigate how language affects people’s attention to and engagement with social media posts, I conducted an eye-tracking lab study in which monolingual English speaking participants (N=22) viewed a mock newsfeed containing English and foreign language posts.</description>
+    </item>
+    
+    <item>
+      <title>Selfie on Social Media</title>
+      <link>https://hajinlim.github.io/project/selfie/</link>
+      <pubDate>Sun, 24 Feb 2019 21:01:40 -0500</pubDate>
+      
+      <guid>https://hajinlim.github.io/project/selfie/</guid>
+      <description>Summary Selfies are everywhere on social media. Research has focused only on who is posting selfies and has not addressed the audience members viewing selfies. This study aims to fill this gap by analyzing the judgments people make of selfies posted on Facebook. Using an online experiment, we test how including a selfie on a Facebook status update changes people’s appraisals of narcissism, message appropriateness, and social attraction. We also consider how the valence and intimacy of the status update text interplay with the selfie to change social judgments.</description>
+    </item>
+    
+  </channel>
+</rss>

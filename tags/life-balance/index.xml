@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Life Balance on Hajin Lim</title>
+    <link>https://hajinlim.github.io/tags/life-balance/</link>
+    <description>Recent content in Life Balance on Hajin Lim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 Feb 2019 21:01:40 -0500</lastBuildDate>
+    
+	<atom:link href="https://hajinlim.github.io/tags/life-balance/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Life Balance of Digital Natives</title>
+      <link>https://hajinlim.github.io/project/lifebalance/</link>
+      <pubDate>Sun, 24 Feb 2019 21:01:40 -0500</pubDate>
+      
+      <guid>https://hajinlim.github.io/project/lifebalance/</guid>
+      <description>Summary Previous research has shown that communication technologies may make it challenging for working professionals to manage the boundaries between their work life and home life. For college students, however, there is a less clear definition of what constitutes work and what constitutes home life. As a result, students may use different boundary management strategies than working professionals. To explore this issue, we interviewed 29 undergraduates about how they managed boundaries between different areas of their life.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design Implication on Hajin Lim</title>
+    <link>https://hajinlim.github.io/tags/design-implication/</link>
+    <description>Recent content in Design Implication on Hajin Lim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 Feb 2019 21:01:40 -0500</lastBuildDate>
+    
+	<atom:link href="https://hajinlim.github.io/tags/design-implication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Life Balance of Digital Natives</title>
+      <link>https://hajinlim.github.io/project/lifebalance/</link>
+      <pubDate>Sun, 24 Feb 2019 21:01:40 -0500</pubDate>
+      
+      <guid>https://hajinlim.github.io/project/lifebalance/</guid>
+      <description>Summary Previous research has shown that communication technologies may make it challenging for working professionals to manage the boundaries between their work life and home life. For college students, however, there is a less clear definition of what constitutes work and what constitutes home life. As a result, students may use different boundary management strategies than working professionals. To explore this issue, we interviewed 29 undergraduates about how they managed boundaries between different areas of their life.</description>
+    </item>
+    
+    <item>
+      <title>Now here or nowhere</title>
+      <link>https://hajinlim.github.io/project/cmc/</link>
+      <pubDate>Sun, 24 Feb 2019 21:01:40 -0500</pubDate>
+      
+      <guid>https://hajinlim.github.io/project/cmc/</guid>
+      <description>Summary This research explores the uses of communication channels that couples adopt in varied geographical distance settings. We also characterize their conflict patterns and strategies for resolving the conflicts. We found that the distances between couples have a strong influence on their communication patterns. The distance is associated with typical conflicts pattern that couples confronted as well as the relationship maintenance strategies. In this research, we classify distance settings into four categories.</description>
+    </item>
+    
+    <item>
+      <title>Ubi-Jector</title>
+      <link>https://hajinlim.github.io/project/ubi/</link>
+      <pubDate>Sun, 24 Feb 2019 21:01:40 -0500</pubDate>
+      
+      <guid>https://hajinlim.github.io/project/ubi/</guid>
+      <description>Summary The widespread use of mobile devices has transformed casual places into meeting places. However, in these places, it is uncommon to have shared information workspace such as a beam projector, making it inconvenient and inefficient to exchange information and to get a direct feedback. To address this challenge, we present Ubi-jector, a mobile system that provides a shared information space that is equally distributed to each participant&amp;rsquo;s mobile device and allows group members to share documents and collaborate real-time.</description>
+    </item>
+    
+  </channel>
+</rss>

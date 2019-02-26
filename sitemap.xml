@@ -20,14 +20,6 @@
     
     <url>
     
-      <loc>https://hajinlim.github.io/project/aicomm/</loc>
-      <lastmod>2019-02-24T21:01:40-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://hajinlim.github.io/project/beyondtranslation/</loc>
       <lastmod>2019-02-24T21:01:40-05:00</lastmod>
     </url>
@@ -44,7 +36,23 @@
     
     <url>
     
-      <loc>https://hajinlim.github.io/project/socialmedia/</loc>
+      <loc>https://hajinlim.github.io/project/cmc/</loc>
+      <lastmod>2019-02-24T21:01:40-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://hajinlim.github.io/project/selfie/</loc>
+      <lastmod>2019-02-24T21:01:40-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://hajinlim.github.io/project/ubi/</loc>
       <lastmod>2019-02-24T21:01:40-05:00</lastmod>
     </url>
     
@@ -192,7 +200,25 @@
     
     <url>
     
+      <loc>https://hajinlim.github.io/tags/cmc/</loc>
+      <lastmod>2019-02-24T21:01:40-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://hajinlim.github.io/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://hajinlim.github.io/tags/conflict/</loc>
+      <lastmod>2019-02-24T21:01:40-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -202,6 +228,51 @@
     
       <loc>https://hajinlim.github.io/authors/dan-cosley/</loc>
       <lastmod>2018-01-01T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://hajinlim.github.io/tags/data-analysis/</loc>
+      <lastmod>2019-02-24T21:01:40-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://hajinlim.github.io/tags/design/</loc>
+      <lastmod>2019-02-24T21:01:40-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://hajinlim.github.io/tags/design-implication/</loc>
+      <lastmod>2019-02-24T21:01:40-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://hajinlim.github.io/tags/development/</loc>
+      <lastmod>2019-02-24T21:01:40-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://hajinlim.github.io/tags/digital-native/</loc>
+      <lastmod>2019-02-24T21:01:40-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -254,6 +325,24 @@
     
     <url>
     
+      <loc>https://hajinlim.github.io/tags/interview/</loc>
+      <lastmod>2019-02-24T21:01:40-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://hajinlim.github.io/tags/intimate-relationship/</loc>
+      <lastmod>2019-02-24T21:01:40-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://hajinlim.github.io/authors/jaehyeon-park/</loc>
       <lastmod>2014-01-01T00:00:00-05:00</lastmod>
       <priority>0</priority>
@@ -281,8 +370,62 @@
     
     <url>
     
+      <loc>https://hajinlim.github.io/tags/lab-experiment/</loc>
+      <lastmod>2019-02-24T21:01:40-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://hajinlim.github.io/tags/life-balance/</loc>
+      <lastmod>2019-02-24T21:01:40-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://hajinlim.github.io/tags/machine-translation/</loc>
+      <lastmod>2019-02-24T21:01:40-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://hajinlim.github.io/tags/mobile-device/</loc>
+      <lastmod>2019-02-24T21:01:40-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://hajinlim.github.io/authors/negar-khojasteh/</loc>
       <lastmod>2017-01-01T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://hajinlim.github.io/tags/nlp/</loc>
+      <lastmod>2019-02-24T21:01:40-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://hajinlim.github.io/tags/named-entity-extraction/</loc>
+      <lastmod>2019-02-24T21:01:40-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -298,6 +441,15 @@
     
     <url>
     
+      <loc>https://hajinlim.github.io/tags/online-experiment/</loc>
+      <lastmod>2019-02-24T21:01:40-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://hajinlim.github.io/post/</loc>
     </url>
     
@@ -306,6 +458,15 @@
     <url>
     
       <loc>https://hajinlim.github.io/project/</loc>
+      <lastmod>2019-02-24T21:01:40-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://hajinlim.github.io/tags/prototyping/</loc>
       <lastmod>2019-02-24T21:01:40-05:00</lastmod>
       <priority>0</priority>
     </url>
@@ -356,8 +517,62 @@
     
     <url>
     
+      <loc>https://hajinlim.github.io/tags/selfie/</loc>
+      <lastmod>2019-02-24T21:01:40-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://hajinlim.github.io/tags/sensetrans/</loc>
+      <lastmod>2019-02-24T21:01:40-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://hajinlim.github.io/tags/sentiment-analysis/</loc>
+      <lastmod>2019-02-24T21:01:40-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://hajinlim.github.io/authors/seohee-choi/</loc>
       <lastmod>2013-01-01T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://hajinlim.github.io/tags/social-media/</loc>
+      <lastmod>2019-02-24T21:01:40-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://hajinlim.github.io/tags/social-media/</loc>
+      <lastmod>2019-02-24T21:01:40-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://hajinlim.github.io/tags/survey/</loc>
+      <lastmod>2019-02-24T21:01:40-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -374,7 +589,53 @@
     
     <url>
     
+      <loc>https://hajinlim.github.io/tags/system/</loc>
+      <lastmod>2019-02-24T21:01:40-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://hajinlim.github.io/tags/system-evaluation/</loc>
+      <lastmod>2019-02-24T21:01:40-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://hajinlim.github.io/tags/</loc>
+      <lastmod>2019-02-24T21:01:40-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://hajinlim.github.io/tags/technology/</loc>
+      <lastmod>2019-02-24T21:01:40-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://hajinlim.github.io/tags/ubi-jector/</loc>
+      <lastmod>2019-02-24T21:01:40-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://hajinlim.github.io/tags/work-life-balance/</loc>
+      <lastmod>2019-02-24T21:01:40-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -392,6 +653,24 @@
     <url>
     
       <loc>https://hajinlim.github.io/authors/admin/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://hajinlim.github.io/tags/eye-tracking/</loc>
+      <lastmod>2019-02-24T21:01:40-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://hajinlim.github.io/tags/sensemaking/</loc>
+      <lastmod>2019-02-24T21:01:40-05:00</lastmod>
       <priority>0</priority>
     </url>
     

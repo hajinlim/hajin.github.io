@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Survey on Hajin Lim</title>
+    <link>https://hajinlim.github.io/tags/survey/</link>
+    <description>Recent content in Survey on Hajin Lim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 Feb 2019 21:01:40 -0500</lastBuildDate>
+    
+	<atom:link href="https://hajinlim.github.io/tags/survey/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Selfie on Social Media</title>
+      <link>https://hajinlim.github.io/project/selfie/</link>
+      <pubDate>Sun, 24 Feb 2019 21:01:40 -0500</pubDate>
+      
+      <guid>https://hajinlim.github.io/project/selfie/</guid>
+      <description>Summary Selfies are everywhere on social media. Research has focused only on who is posting selfies and has not addressed the audience members viewing selfies. This study aims to fill this gap by analyzing the judgments people make of selfies posted on Facebook. Using an online experiment, we test how including a selfie on a Facebook status update changes people’s appraisals of narcissism, message appropriateness, and social attraction. We also consider how the valence and intimacy of the status update text interplay with the selfie to change social judgments.</description>
+    </item>
+    
+  </channel>
+</rss>

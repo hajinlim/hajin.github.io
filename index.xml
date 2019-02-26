@@ -98,39 +98,202 @@
     </item>
     
     <item>
-      <title>Test</title>
-      <link>https://hajinlim.github.io/project/aicomm/</link>
-      <pubDate>Sun, 24 Feb 2019 21:01:40 -0500</pubDate>
-      
-      <guid>https://hajinlim.github.io/project/aicomm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Test</title>
+      <title>Beyond Translation</title>
       <link>https://hajinlim.github.io/project/beyondtranslation/</link>
       <pubDate>Sun, 24 Feb 2019 21:01:40 -0500</pubDate>
       
       <guid>https://hajinlim.github.io/project/beyondtranslation/</guid>
-      <description></description>
+      <description>
+
+&lt;p&gt;Machine translation is often not enough for people to engage across languages due to translation errors and lack of cultural background. My research aims to explore design possibilities to improve multilingual communication based on grounded understandings of how people consume and make sense of foreign language messages and contents.&lt;/p&gt;
+
+&lt;h4 id=&#34;study-1-understanding-how-people-consume-and-make-sense-of-foreign-language-messages&#34;&gt;Study 1: Understanding how people consume and make sense of foreign language messages&lt;/h4&gt;
+
+&lt;p&gt;To investigate how language affects people’s attention to and engagement with social media posts, I conducted an eye-tracking lab study in which monolingual English speaking participants (N=22) viewed a mock newsfeed containing English and foreign language posts. The result showed that participants paid less attention to, and showed less willingness to engage with, foreign language posts compared to English posts.&lt;/p&gt;
+
+&lt;p&gt;I also conducted a qualitative interview study  examining participants’ actual Facebook timelines (N=23) and probing the reasons that people were reluctant to pay attention to and engage with foreign language posts. Interviewees reported that they felt a lack of relevance and cultural knowledge when they tried to understand foreign language posts. Even with MT results, literal translation often could not provide sufficient understanding of posts due to the imperfect quality of MT and people’s lack of contextual knowledge associated with each post. As a strategy to make sense of foreign language posts, some focused on simply extracting the emotional components of a post (e.g., emoji) while others tried to gain a fuller understanding of a post by searching the information about keywords.
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;sensemaking_goals.png&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;Sensemaking Goals&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;&lt;/p&gt;
+
+&lt;h5 id=&#34;related-publications&#34;&gt;Related Publications&lt;/h5&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Hajin Lim&lt;/strong&gt; and Susan R. Fussell. 2017. Understanding How People Attend to and Engage with Foreign Language Posts in Multilingual Newsfeeds, In Proceedings of the International AAAI Conference on Web and Social Media (ICWSM’17) &lt;a href=&#34;https://hajinlim.github.io/publication/lim-2017-making/lim-2017-making.pdf&#34; target=&#34;_blank&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Hajin Lim&lt;/strong&gt; and Susan R. Fussell. 2017. Making Sense of Foreign Language Posts in Social Media, Proceedings of the ACM on Human-Computer Interaction Volume 1 Issue CSCW&amp;rsquo;18 &lt;a href=&#34;https://hajinlim.github.io/publication/lim-2017-understanding/lim-2017-understanding.pdf&#34; target=&#34;_blank&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&#34;study-2-design-and-evaluation-of-ai-augmented-interface-to-support-better-sensemaking-of-foreign-language-posts&#34;&gt;Study 2: Design and Evaluation of AI-Augmented Interface to support better sensemaking of foreign language posts&lt;/h4&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;SenseTrans.png&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;SenseTrans&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+&lt;p&gt;Based on the previous findings, I designed and developed a browser extension, SenseTrans that provides emotional and contextual knowledge in addition to MT to support better sensemaking processes surrounding social media posts. Aligned with the sensemaking strategies that interview participants reported (i.e., emotion vs. context focus), SenseTrans
+provided emotional knowledge about a poster’s emotional states and contextual knowledge about the social and physical context of a post. By making use of available NLP techniques such as sentiment mining and named entity extraction, SenseTrans provides auto generated emotional and contextual annotations based on the text content of a status update.&lt;/p&gt;
+
+&lt;h5 id=&#34;related-publications-1&#34;&gt;Related Publications&lt;/h5&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Hajin Lim&lt;/strong&gt;, Dan Cosley, and Susan R. Fussell. 2018. Beyond Translation: Design and Evaluation of an Emotional and Contextual Knowledge Interface for Foreign Language Social Media Posts, In Proceedings of CHI&amp;rsquo;2018 &lt;a href=&#34;https://hajinlim.github.io/publication/lim-2018-beyond/lim-2018-beyond.pdf&#34; target=&#34;_blank&#34;&gt;[pdf]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Hajin Lim&lt;/strong&gt;, Design for Computer-Mediated Multilingual Communication with AI Support, In Proceedings of the companion publication of CSCW’18, ACM (Doctoral Colloquium)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&#34;research-method&#34;&gt;Research Method&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Eye-tracking&lt;/li&gt;
+&lt;li&gt;Lab Experiment&lt;/li&gt;
+&lt;li&gt;Semi-Structured Interview&lt;/li&gt;
+&lt;li&gt;Interview Coding&lt;/li&gt;
+&lt;li&gt;Design, Prototyping&lt;/li&gt;
+&lt;li&gt;Development&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
-      <title>Test</title>
+      <title>Life Balance of Digital Natives</title>
       <link>https://hajinlim.github.io/project/lifebalance/</link>
       <pubDate>Sun, 24 Feb 2019 21:01:40 -0500</pubDate>
       
       <guid>https://hajinlim.github.io/project/lifebalance/</guid>
-      <description></description>
+      <description>
+
+&lt;h3 id=&#34;summary&#34;&gt;Summary&lt;/h3&gt;
+
+&lt;p&gt;Previous research has shown that communication technologies may make it challenging for working professionals to manage the boundaries between their work life and home life. For college students, however, there is a less clear definition of what constitutes work and what constitutes home life. As a result, students may use different boundary management strategies than working professionals. To explore this issue, we interviewed 29 undergraduates about how they managed boundaries between different areas of their life. Interviewees reported maintaining flexible and permeable boundaries that are not bounded physically or temporally. They used both technological and non-technological strategies to manage different life spheres. Interviewees saw technology as a major source of boundary violations but also as a boundary managing strategy that allowed them to achieve better life balance. Based on these findings, we propose design implications for tools to better support the boundary management processes of undergraduate students.&lt;/p&gt;
+
+&lt;h3 id=&#34;research-method&#34;&gt;Research Method&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Semi-structured Interview&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;publication&#34;&gt;Publication&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Hajin Lim&lt;/strong&gt;, Ian Arawjo, Yaxian Xie, Negar Khosjaste, and Susan R. Fussell. 2017. Distraction or Life Saver? The Role of Technology in Undergraduate Students’ Boundary Management Strategies, Proceedings of the ACM on Human-Computer Interaction Volume 1 Issue CSCW&amp;rsquo;18 &lt;a href=&#34;https://hajinlim.github.io/publication/lim-2017-distraction/lim-2017-distraction.pdf&#34; target=&#34;_blank&#34;&gt;[pdf]&lt;/a&gt;   &lt;a href=&#34;https://hajinlim.github.io/publication/lim-2017-distraction/CSCW_Boundary.pdf&#34; target=&#34;_blank&#34;&gt;[talk_slide]&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Test</title>
-      <link>https://hajinlim.github.io/project/socialmedia/</link>
+      <title>Now here or nowhere</title>
+      <link>https://hajinlim.github.io/project/cmc/</link>
       <pubDate>Sun, 24 Feb 2019 21:01:40 -0500</pubDate>
       
-      <guid>https://hajinlim.github.io/project/socialmedia/</guid>
-      <description></description>
+      <guid>https://hajinlim.github.io/project/cmc/</guid>
+      <description>
+
+&lt;h3 id=&#34;summary&#34;&gt;Summary&lt;/h3&gt;
+
+&lt;p&gt;This research explores the uses of communication channels that couples adopt in varied geographical distance settings. We also characterize their conflict patterns and strategies for resolving the conflicts. We found that the distances between couples have a strong influence on their communication patterns. The distance is associated with typical conflicts pattern that couples confronted as well as the relationship maintenance strategies. In this research, we classify distance settings into four categories. Then, we perform semi-structured interviews with 20 couples in various distance settings. The analysis allows us to develop design guidelines for mitigating conflicts associated with the four distance categories.&lt;/p&gt;
+
+&lt;h3 id=&#34;keyword&#34;&gt;Keyword&lt;/h3&gt;
+
+&lt;p&gt;Intimate communication; Long-Distance Relationship; couple-centered design; CMC&lt;/p&gt;
+
+&lt;h3 id=&#34;research-method&#34;&gt;Research Method&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Interview&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;publication&#34;&gt;Publication&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Hajin Lim&lt;/strong&gt;, and Bongwon Suh. 2014. Now Here or Nowhere: Conflict Resolution Strategies for Intimate Relationship in Diverse Geographical Contexts, In CSCW ’14 &lt;a href=&#34;https://hajinlim.github.io/publication/lim-2014-now/lim-2014-now.pdf&#34; target=&#34;_blank&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Selfie on Social Media</title>
+      <link>https://hajinlim.github.io/project/selfie/</link>
+      <pubDate>Sun, 24 Feb 2019 21:01:40 -0500</pubDate>
+      
+      <guid>https://hajinlim.github.io/project/selfie/</guid>
+      <description>
+
+&lt;h3 id=&#34;summary&#34;&gt;Summary&lt;/h3&gt;
+
+&lt;p&gt;Selfies are everywhere on social media. Research has focused only on who is posting selfies and has not addressed the audience members viewing selfies. This study aims to fill this gap by analyzing the judgments people make of selfies posted on Facebook. Using an online experiment, we test how including a selfie on a Facebook status update changes people’s appraisals of narcissism, message appropriateness, and social attraction. We also consider how the valence and intimacy of the status update text interplay with the selfie to change social judgments. Participants rated posts with selfies as more narcissistic and inappropriate, and less socially attractive. Selfie evaluations also depended upon the valence and intimacy of the status update text. Gender of the selfie poster did not influence evaluation of posts. One implication from these results is that posting selfies on social media may lead to negative judgments about the poster.&lt;/p&gt;
+
+&lt;h3 id=&#34;keyword&#34;&gt;Keyword&lt;/h3&gt;
+
+&lt;p&gt;selfie, social media, social judgment, self-disclosure&lt;/p&gt;
+
+&lt;h3 id=&#34;research-method&#34;&gt;Research Method&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Experiment&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;publication&#34;&gt;Publication&lt;/h3&gt;
+
+&lt;p&gt;Samuel H. Taylor, Alexandra S. Hinck, and &lt;strong&gt;Hajin Lim&lt;/strong&gt;. 2017. What the selfie says: An experimental test of how selfies change Social judgments on Facebook, In the Journal of Cyberpsychology, Behavior, and Social Networking  &lt;a href=&#34;https://hajinlim.github.io/publication/taylor-2017-experimental/selfie_poster.pdf&#34; target=&#34;_blank&#34;&gt;[poster]&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ubi-Jector</title>
+      <link>https://hajinlim.github.io/project/ubi/</link>
+      <pubDate>Sun, 24 Feb 2019 21:01:40 -0500</pubDate>
+      
+      <guid>https://hajinlim.github.io/project/ubi/</guid>
+      <description>
+
+&lt;h3 id=&#34;summary&#34;&gt;Summary&lt;/h3&gt;
+
+&lt;p&gt;The widespread use of mobile devices has transformed casual places into meeting places. However, in these places, it is uncommon to have shared information workspace such as a beam projector, making it inconvenient and inefficient to exchange information and to get a direct feedback. To address this challenge, we present Ubi-jector, a mobile system that provides a shared information space that is equally distributed to each participant&amp;rsquo;s mobile device and allows group members to share documents and collaborate real-time. We first characterized the information sharing patterns and identified the limitations of the current practice in meeting places without a shared workspace, by conducting qualitative user studies. Next, we implemented Ubi-jector with the design guidelines drawn in the prior stage. Also, we performed an evaluation study that showed the possibilities of Ubi-jector to facilitate an effective information sharing and foster an active participation even in poorly-equipped environments.&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/2hun7AjR8pc&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;h3 id=&#34;keyword&#34;&gt;Keyword&lt;/h3&gt;
+
+&lt;p&gt;Co-located Interaction; shared display; information sharing; CSCW; F2F; co-located; mobile collaboration&lt;/p&gt;
+
+&lt;h3 id=&#34;research-method&#34;&gt;Research Method&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Interview&lt;/li&gt;
+&lt;li&gt;Prototyping&lt;/li&gt;
+&lt;li&gt;System evaluation&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;publication&#34;&gt;Publication&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Hajin Lim&lt;/strong&gt;, Hyunjin Ahn, Junwoo Kang, Bongwon Suh, and Joonhwan Lee. 2014. Ubi-jector: An Information-Sharing Workspace in Casual Places Using Mobile Devices, In Proceedings of Mobile HCI’ 14 &lt;a href=&#34;https://hajinlim.github.io/publication/lim-2014-ubi/lim-2014-ubi.pdf&#34; target=&#34;_blank&#34;&gt;[pdf]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Hajin Lim&lt;/strong&gt;, Seohee Choi, and Joonhwan Lee. 2013. Ubi-Jector: an information-sharing screen in a casual meeting environment using mobile devices. In CHI’13 Extended Abstracts on Human Factors in Computing Systems (CHI EA ’13). ACM, New York, NY, USA, 1695-1700&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
     <item>
@@ -148,15 +311,6 @@
       <pubDate>Mon, 01 Jan 2018 00:00:00 -0500</pubDate>
       
       <guid>https://hajinlim.github.io/publication/lim-2018-design/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>An Experimental Test of How Selfies Change Social Judgments on Facebook</title>
-      <link>https://hajinlim.github.io/publication/taylor-2017-experimental/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
-      
-      <guid>https://hajinlim.github.io/publication/taylor-2017-experimental/</guid>
       <description></description>
     </item>
     

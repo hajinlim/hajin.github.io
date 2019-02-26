@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CMC on Hajin Lim</title>
+    <link>https://hajinlim.github.io/tags/cmc/</link>
+    <description>Recent content in CMC on Hajin Lim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 Feb 2019 21:01:40 -0500</lastBuildDate>
+    
+	<atom:link href="https://hajinlim.github.io/tags/cmc/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Now here or nowhere</title>
+      <link>https://hajinlim.github.io/project/cmc/</link>
+      <pubDate>Sun, 24 Feb 2019 21:01:40 -0500</pubDate>
+      
+      <guid>https://hajinlim.github.io/project/cmc/</guid>
+      <description>Summary This research explores the uses of communication channels that couples adopt in varied geographical distance settings. We also characterize their conflict patterns and strategies for resolving the conflicts. We found that the distances between couples have a strong influence on their communication patterns. The distance is associated with typical conflicts pattern that couples confronted as well as the relationship maintenance strategies. In this research, we classify distance settings into four categories.</description>
+    </item>
+    
+  </channel>
+</rss>

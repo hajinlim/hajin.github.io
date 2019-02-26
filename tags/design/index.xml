@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design on Hajin Lim</title>
+    <link>https://hajinlim.github.io/tags/design/</link>
+    <description>Recent content in Design on Hajin Lim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 Feb 2019 21:01:40 -0500</lastBuildDate>
+    
+	<atom:link href="https://hajinlim.github.io/tags/design/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Beyond Translation</title>
+      <link>https://hajinlim.github.io/project/beyondtranslation/</link>
+      <pubDate>Sun, 24 Feb 2019 21:01:40 -0500</pubDate>
+      
+      <guid>https://hajinlim.github.io/project/beyondtranslation/</guid>
+      <description>Machine translation is often not enough for people to engage across languages due to translation errors and lack of cultural background. My research aims to explore design possibilities to improve multilingual communication based on grounded understandings of how people consume and make sense of foreign language messages and contents.
+Study 1: Understanding how people consume and make sense of foreign language messages To investigate how language affects people’s attention to and engagement with social media posts, I conducted an eye-tracking lab study in which monolingual English speaking participants (N=22) viewed a mock newsfeed containing English and foreign language posts.</description>
+    </item>
+    
+    <item>
+      <title>Ubi-Jector</title>
+      <link>https://hajinlim.github.io/project/ubi/</link>
+      <pubDate>Sun, 24 Feb 2019 21:01:40 -0500</pubDate>
+      
+      <guid>https://hajinlim.github.io/project/ubi/</guid>
+      <description>Summary The widespread use of mobile devices has transformed casual places into meeting places. However, in these places, it is uncommon to have shared information workspace such as a beam projector, making it inconvenient and inefficient to exchange information and to get a direct feedback. To address this challenge, we present Ubi-jector, a mobile system that provides a shared information space that is equally distributed to each participant&amp;rsquo;s mobile device and allows group members to share documents and collaborate real-time.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ubi-jector on Hajin Lim</title>
+    <link>https://hajinlim.github.io/tags/ubi-jector/</link>
+    <description>Recent content in Ubi-jector on Hajin Lim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 Feb 2019 21:01:40 -0500</lastBuildDate>
+    
+	<atom:link href="https://hajinlim.github.io/tags/ubi-jector/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ubi-Jector</title>
+      <link>https://hajinlim.github.io/project/ubi/</link>
+      <pubDate>Sun, 24 Feb 2019 21:01:40 -0500</pubDate>
+      
+      <guid>https://hajinlim.github.io/project/ubi/</guid>
+      <description>Summary The widespread use of mobile devices has transformed casual places into meeting places. However, in these places, it is uncommon to have shared information workspace such as a beam projector, making it inconvenient and inefficient to exchange information and to get a direct feedback. To address this challenge, we present Ubi-jector, a mobile system that provides a shared information space that is equally distributed to each participant&amp;rsquo;s mobile device and allows group members to share documents and collaborate real-time.</description>
+    </item>
+    
+  </channel>
+</rss>
